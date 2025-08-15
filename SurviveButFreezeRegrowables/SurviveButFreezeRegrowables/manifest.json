@@ -1,9 +1,0 @@
-﻿{
-  "Name": "Survive But Freeze Regrowables",
-  "Author": "StyStatic",
-  "Version": "1.2.0",
-  "Description": "Crops survive season changes. Regrowables freeze outside planted season, except in year-round locations.",
-  "UniqueID": "StyStatic.SurviveButFreezeRegrowables",
-  "EntryDll": "SurviveButFreezeRegrowables.dll",
-  "MinimumApiVersion": "3.15.0"
-}
